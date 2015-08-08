@@ -2,7 +2,7 @@ Developers
 ===
 > Vetted by yours truly.
 
-The following developers write Node.js modules of sufficient __quality__ and/or __utility__ that I use them in my projects and would recommend them to others.
+The following developers write Node.js modules of sufficient __quality__ and/or __utility__ that I use them in my projects and would recommend them to others. Consider this my developer whitelist.
 
 *   James Halliday [[substack](https://github.com/substack)]
 *   Jared Hanson [[jaredhanson](https://github.com/jaredhanson)]
